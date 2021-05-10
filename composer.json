@@ -1,0 +1,26 @@
+{
+    "name": "dsijak/authman",
+    "description": "Stores objects into static associative array. Without any unnecessary overcomplicated features.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damir Šijaković",
+            "email": "damir.sijakovic@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {        
+        "files": [
+                "src/container.php"
+            ],
+        "psr-4": {
+            "Dsijak\\": "src"
+        }
+    }
+}
+
+
+
