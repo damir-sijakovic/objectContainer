@@ -3,6 +3,10 @@
 Stores objects into static associative array.
 Without any unnecessary overcomplicated features.  
 
+### Install
+
+        composer require dsijak/container
+
 ### Usage
 
 #### Add object to container:
