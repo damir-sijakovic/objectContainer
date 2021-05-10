@@ -1,5 +1,5 @@
 {
-    "name": "dsijak/authman",
+    "name": "dsijak/container",
     "description": "Stores objects into static associative array. Without any unnecessary overcomplicated features.",
     "license": "MIT",
     "authors": [
